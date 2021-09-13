@@ -75,7 +75,7 @@ Projeto: https://www.figma.com/file/tLffijQFskMjUcsEAFokKt/Platiot?node-id=0%3A1
 ### Frontend
 
 <p align="justify">
-  A aplicação frontend encontra-se hospedada na Vercel.
+  The application is hosted on Heroku.
 </p>
 
 ### Storage
@@ -107,7 +107,7 @@ Na aplicação não fora utilizado scripts SQL puros, e sim uma tecnologia chama
 ## Front End
 
 <p align="justify">
-A aplicação fora desenvolvida em React, visando uma utilização em um computador. A responsividade aqui não fora o foco devido ao pouco tempo, (novamente não seria nada complicado a implementação), no entanto o foco aqui foram as funcionalidades básicas.
+The aplication was developed in NextJS using the most possible otimizations tha the NextJS provides, follow in below more. This aplication has a good responsivity, but that part is not completed (just missed the header to be more responsive, in this version was really easy and fast to implement it).
 </p>
 
 ### NEXT TS:
